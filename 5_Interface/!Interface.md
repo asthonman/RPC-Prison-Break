@@ -1,0 +1,4 @@
+- **Visuals** - If you have a HUD, what is on it?  What menus are you displaying? What is the camera model?
+- **Controls** - How does the game player control the game?   What are the specific commands?
+- **Audio** - Music, sound effects, and dialogue
+- **Help** - 
