@@ -1,0 +1,1 @@
+- **Game Art** - Key assets, how they are being developed, Intended style.
