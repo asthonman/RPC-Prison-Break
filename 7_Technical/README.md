@@ -1,0 +1,3 @@
+- **Target Hardware** - system requirements for playing the game
+- **Dev Hardware** - Developer hardware and software, including game engine
+- **Network** - Network Requirements
