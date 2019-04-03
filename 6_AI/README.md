@@ -1,0 +1,3 @@
+- **Enemies** - The active opponent that plays against the game player and therefore requires strategic decision making 
+- **NPCs** - Non-combat and Friendly Characters
+- **Support** - Player and Collision Detection, Pathfinding
