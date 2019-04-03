@@ -1,0 +1,5 @@
+- **Story/Narrative** - Includes back story, plot elements, game progression, and cut scenes.  Cut scenes descriptions include the actors, the setting, and the storyboard or script.
+- **World** - 
+  - **Experience** - General look and feel of world
+  - **Areas** - including the general description and physical characteristics as well as how it relates to the rest of the world (what levels use it, how it connects to other areas)
+- **Characters** - Each character should include the back story, personality, appearance, animations, abilities, relevance to the story and relationship to other characters 
