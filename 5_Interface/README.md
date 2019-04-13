@@ -1,4 +1,3 @@
-- **Visuals** - If you have a HUD, what is on it?  What menus are you displaying? What is the camera model?
-- **Controls** - How does the game player control the game?   What are the specific commands?
-- **Audio** - Music, sound effects, and dialogue
-- **Help** - 
+- **Visuals** - HUD: Shows ammo and magazine count for whatever weapon is equipped. In the main menue, New game, load game, options, extras, and credits. FPS View.
+- **Controls** - WASD to move in any direction and the mouse to look around. Binds for specific commands can be set to whatever the player wishes.
+- **Audio** - Ambience, sound effects, and dialogue in certain areas.
