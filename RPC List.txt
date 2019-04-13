@@ -39,4 +39,5 @@ Easter Eggs
 RPC-016 http://www.rpc-wiki.net/rpc-016
 RPC-056 http://www.rpc-wiki.net/rpc-056
 RPC-076 http://www.rpc-wiki.net/rpc-076
+RPC-358 http://www.rpc-wiki.net/rpc-358
 RPC-378 http://www.rpc-wiki.net/rpc-378
