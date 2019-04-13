@@ -3,4 +3,4 @@
 - **Genre** - Adventure
 - **Target Audience** - Everyone/Mature(?)
 - **Flow** - Work way up via recontaining anomalies or potentailly fighting throught it all (GOIs)?
-= **Experience** - What is the basic look and feel of the game?  What is the visual style?
+- **Experience** - Moody, but more focus on story(ies), action, and exploration than being spooked. Visual Style is akin to the "old parts"  of Portal in the lower area, which is cavernous and has varrying lighting. Upper areas are older, but Research tends to have rennovated areas that are newer.
