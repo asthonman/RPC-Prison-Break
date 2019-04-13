@@ -1,3 +1,3 @@
-- **Enemies** - The active opponent that plays against the game player and therefore requires strategic decision making 
-- **NPCs** - Non-combat and Friendly Characters
+- **Enemies** - The active opponent that plays against the game player and therefore requires strategic decision making. Some escaped CSDs and RPCs hostile to the player.
+- **NPCs** - Non-combat and Friendly Characters. Other Site Security, Researchers, and MSTs. Maybe some CSDs.
 - **Support** - Player and Collision Detection, Pathfinding
