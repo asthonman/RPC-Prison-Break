@@ -1,3 +1,3 @@
 - **Target Hardware** - system requirements for playing the game
-- **Dev Hardware** - Developer hardware and software, including game engine
+- **Dev Hardware** - Source Engine. SDK available. VTFedit needed for graphics and texture mapping.
 - **Network** - Network Requirements
