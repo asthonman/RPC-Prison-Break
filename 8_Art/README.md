@@ -1,1 +1,1 @@
-- **Game Art** - Key assets, how they are being developed, Intended style.
+- **Game Art** - Will be uploaded in the appropriate channels on the discord and git. VTFs will need to be processed for anything in the map that needs to be textured.
