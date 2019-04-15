@@ -1,8 +1,8 @@
 ENEMIES
 
-[RPC-005](http://www.rpc-wiki.net/rpc-005) - Queen of the South Sea: 
+[RPC-005](http://www.rpc-wiki.net/rpc-005) - Queen of the South Sea: likely serve as a background character, only making an appearance near the surface, if at all.
 
-[RPC-077](http://www.rpc-wiki.net/rpc-077) - The Grandmother: 
+[RPC-077](http://www.rpc-wiki.net/rpc-077) - The Grandmother: bound to a single room.
 
 [RPC-127](http://www.rpc-wiki.net/rpc-127) - Cloud Coverage: 
 
@@ -24,9 +24,9 @@ ENEMIES
 
 NEUTRAL
 
-[RPC-016-5](http://www.rpc-wiki.net/rpc-016) - Iron Will: 
+[RPC-016-5](http://www.rpc-wiki.net/rpc-016) - Iron Will: could be used as a source of weapons. or could attack you, depending on choices you've made throughout the game.
 
-[RPC-049](http://www.rpc-wiki.net/rpc-049) - Janet from HR: 
+[RPC-049](http://www.rpc-wiki.net/rpc-049) - Janet from HR: Background character, can be found walking through inaccessible halls and doors.
 
 [RPC-105](http://www.rpc-wiki.net/rpc-105) - The Boogie Woogie Bugle Boy (of Company B): 
 
@@ -42,7 +42,7 @@ HAZARDS
 
 [RPC-085](http://www.rpc-wiki.net/rpc-085) - Scorching Flames Alarm Clock: 
 
-[RPC-092](http://www.rpc-wiki.net/rpc-092) - The Golem Stone: 
+[RPC-092](http://www.rpc-wiki.net/rpc-092) - The Golem Stone: slowly petrifies the player, slowing them down. however, if they reach it in time, they will lose their status affects and already petrified individuals will start defending them.
 
 [RPC-136](http://www.rpc-wiki.net/rpc-136) - Payback Tires: 
 
@@ -56,11 +56,11 @@ HAZARDS
 
 INTERACTIBLES
 
-[RPC-040](http://www.rpc-wiki.net/rpc-040) - Astral Projector: 
+[RPC-040](http://www.rpc-wiki.net/rpc-040) - Astral Projector: can be picked up and moved, but cannot be put in inventory.
 
 [RCP-173](http://www.rpc-wiki.net/rpc-173) - Driving Dice: 
 
-[RPC-358](http://www.rpc-wiki.net/rpc-358) - the Love Interest: 
+[RPC-358](http://www.rpc-wiki.net/rpc-358) - the Love Interest: Fills a similar role to SCP-513 in CB; you touch it, and start seeing an anime girl following you.
 
 EQUIPPABLES
 
@@ -70,7 +70,7 @@ EQUIPPABLES
 
 [RPC-159](http://www.rpc-wiki.net/rpc-159) - The Mask: 
 
-[RPC-712](http://www.rpc-wiki.net/rpc-712) - the Iron Lad
+[RPC-712](http://www.rpc-wiki.net/rpc-712) - the Iron Lad: a tough helmet that increases armor. 100% headshot immunity.
 
 EASTER EGGS
 
