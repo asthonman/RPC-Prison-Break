@@ -5,7 +5,9 @@ RPC-127 http://www.rpc-wiki.net/rpc-127
 RPC-129-A http://www.rpc-wiki.net/rpc-129
 RPC-484 http://www.rpc-wiki.net/rpc-484
 RPC-556-2 http://www.rpc-wiki.net/rpc-556
+RPC-610-1 http://www.rpc-wiki.net/rpc-610
 RPC-650 http://www.rpc-wiki.net/rpc-650
+RPC-760 http://www.rpc-wiki.net/rpc-760
 RPC-818 http://www.rpc-wiki.net/rpc-818
 RCP-929 http://www.rpc-wiki.net/rpc-929
 
@@ -15,6 +17,7 @@ RPC-049 http://www.rpc-wiki.net/rpc-049
 RPC-105 http://www.rpc-wiki.net/rpc-105
 RPC-183 http://www.rpc-wiki.net/rpc-183
 RPC-230 http://www.rpc-wiki.net/rpc-230
+RPC-686 http://www.rpc-wiki.net/rpc-686
 
 HAZARDS
 RPC-085 http://www.rpc-wiki.net/rpc-085
