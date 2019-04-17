@@ -1,3 +1,5 @@
+note: this is a list of every RPC that is canonicaly located at Site-002. Not all of these necessarily will appear in the actual game. that said, it would be nice if each RPC here is at least refferenced.
+
 ENEMIES
 
 [RPC-005](http://www.rpc-wiki.net/rpc-005) - Queen of the South Sea: likely serve as a background character, only making an appearance near the surface, if at all.
