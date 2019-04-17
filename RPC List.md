@@ -4,7 +4,7 @@ ENEMIES
 
 [RPC-005](http://www.rpc-wiki.net/rpc-005) - Queen of the South Sea: likely serve as a background character, only making an appearance near the surface, if at all.
 
-[RPC-077](http://www.rpc-wiki.net/rpc-077) - The Grandmother: bound to a single room.
+[RPC-077](http://www.rpc-wiki.net/rpc-077) - The Grandmother: First appears not far from her cell, offering the player candy. If the player refuses, she will insist they take it. Eventually she will attempt to force-feed the player, her form twisting more and more until her true form is revealed. Afterwards, she becomes a recurring enemy, operating in a similar manner to Radical Larry.
 
 [RPC-127](http://www.rpc-wiki.net/rpc-127) - Cloud Coverage: 
 
