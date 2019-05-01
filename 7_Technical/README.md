@@ -1,3 +1,3 @@
 - **Target Hardware** - system requirements for playing the game
-- **Dev Hardware** - Source Engine. SDK available. VTFedit needed for graphics and texture mapping.
+- **Dev Hardware** - Source Engine. SDK available. VTFedit needed for graphics and texture mapping. Crowbar and Blender Source Tools needed for modeling. Contains its own mapping tool.
 - **Network** - Network Requirements
