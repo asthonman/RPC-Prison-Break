@@ -62,8 +62,6 @@ INTERACTIBLES
 
 [RCP-173](http://www.rpc-wiki.net/rpc-173) - Driving Dice: 
 
-[RPC-358](http://www.rpc-wiki.net/rpc-358) - the Love Interest: Fills a similar role to SCP-513 in CB; you touch it, and start seeing an anime girl following you.
-
 EQUIPPABLES
 
 [RPC-050](http://www.rpc-wiki.net/rpc-050) - Some Color in Your Life: 
@@ -81,3 +79,5 @@ EASTER EGGS
 [RPC-076](http://www.rpc-wiki.net/rpc-076) - Hidden In Plain Sight: 
 
 [RPC-378](http://www.rpc-wiki.net/rpc-378) - Printed Probability Papers: 
+
+[RPC-358](http://www.rpc-wiki.net/rpc-358) - the Love Interest: You can find the DVD, but you can't play it.
