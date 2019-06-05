@@ -32,7 +32,7 @@ NEUTRAL
 
 [RPC-105](http://www.rpc-wiki.net/rpc-105) - The Boogie Woogie Bugle Boy (of Company B): 
 
-[RPC-121](http://www.rpc-wiki.net/rpc-121) - Smug AI: 
+[RPC-121](http://www.rpc-wiki.net/rpc-121) - Smug AI: Can give you information about a way out, as well as a warning of an incoming danger. Can possibly be taken with you and plugged into another device to open a door or something?
 
 [RPC-183](http://www.rpc-wiki.net/rpc-183) - the Cosmetic Surgeon: 
 
