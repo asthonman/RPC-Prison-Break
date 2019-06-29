@@ -10,7 +10,7 @@ ENEMIES
 
 [RPC-484](http://www.rpc-wiki.net/rpc-484) - the Green Man: will be trying to escape, and will attack and/or infect you if you get in its way, but will otherwise ignore you. Unless you're holding a weapon, then it or its infected will attack you. gains more infected as the game progresses.
 
-[RPC-556-2](http://www.rpc-wiki.net/rpc-556) - "Soyuz": Is worn by either a CSD or Church of Malthus Member.
+[RPC-556-2](http://www.rpc-wiki.net/rpc-556) - "Soyuz": Is worn by either a CSD or Church of Malthus Member. RPC-556-2 is silent, agressive, and behaves as if its on the moon (leaps high, lifts things easily,  falls slower, etc).
 
 [RPC-610-1](http://www.rpc-wiki.net/rpc-610) - Black Meadow: you can encounter the bunker, which may possibly be breached.
 
