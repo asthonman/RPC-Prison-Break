@@ -8,7 +8,7 @@ ENEMIES
 
 [RPC-129-A](http://www.rpc-wiki.net/rpc-129) - They Grow on You: It will try to hug anyone it sees, absorbing them and getting bigger. could become really big if not contained quickly.
 
-[RPC-484](http://www.rpc-wiki.net/rpc-484) - the Green Man: will be trying to escape, and will attack and/or infect you if you get in its way, but will otherwise ignore you. Unless you're holding a weapon, then it or its infected will attack you. gains more infected as the game progresses.
+[RPC-484](http://www.rpc-wiki.net/rpc-484) - the Green Man: will be trying to escape, and will attack and/or infect you if you get in its way, but will otherwise ignore you. Unless you're holding a weapon, then it or its infected will attack you. gains more infected as the game progresses. RPC-121 may be able to convince them to assist you.
 
 [RPC-556-2](http://www.rpc-wiki.net/rpc-556) - "Soyuz": Is worn by either a CSD or Church of Malthus Member. RPC-556-2 is silent, agressive, and behaves as if its on the moon (leaps high, lifts things easily,  falls slower, etc).
 
